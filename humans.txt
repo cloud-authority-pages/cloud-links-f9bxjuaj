@@ -1,0 +1,9 @@
+/* TEAM */
+Company: US Diagnostics Center
+Website: https://usdiagnosticscenter.com/
+Location: Franklin, OH
+
+//* SITE */
+Published: 2026-10-09
+Language: English
+Doctype: HTML5
